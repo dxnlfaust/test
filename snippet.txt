@@ -1,0 +1,16 @@
+<model-viewer bounds="tight" enable-pan src="basic cube.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" poster="poster.png" shadow-intensity="0" shadow-softness="0" camera-orbit="585deg 55deg auto" auto-rotate>
+    <button class="Hotspot" slot="hotspot-1" data-position="-1m 0.9855521654730337m 0.9983948024391838m" data-normal="-1m 0m 0m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">about</div>
+    </button><button class="Hotspot" slot="hotspot-3" data-position="-1m -0.9959587686873053m 0.993026661727787m" data-normal="-1m 0m 0m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">contact</div>
+    </button><button class="Hotspot" slot="hotspot-4" data-position="0.9997029190423694m 0.9729707151559481m -1m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">work</div>
+    </button><button class="Hotspot" slot="hotspot-7" data-position="0.982259825792825m -0.9825012255455845m -1m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">art</div>
+    </button><button class="Hotspot" slot="hotspot-8" data-position="-1m 0.9882137178463766m -0.9978102812200005m" data-normal="-1m 0m 0m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">home</div>
+    </button>
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+</model-viewer>
